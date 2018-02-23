@@ -1,4 +1,4 @@
-# fraud_detection_NY_properties
+# NY-Peoperties Fraud Detection
 
 #### Data:
 * Url: https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8
